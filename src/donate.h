@@ -42,3 +42,4 @@ constexpr const int kMinimumDonateLevel = 0; // No donation sorry
 
 
 #endif /* XMRIG_DONATE_H */
+
